@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 -->
 
 ### Hello =)
+
+I do coding *sometimes*
+
+I'm currently working on:
+  * The Ayame Discord Bot
+  * Nothing else, just wanted a list.
