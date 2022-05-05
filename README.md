@@ -21,3 +21,11 @@ I do coding *sometimes*
 I'm currently working on:
   * The Ayame Discord Bot
   * Nothing else, just wanted a list.
+
+<!-- Create a dropdown -->
+<details>
+    <summary>GitHub Stats</summary>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=RheniumGames&show_icons=true&count_private=true&theme=discord_old_blurple">
+    </p>
+</details>
